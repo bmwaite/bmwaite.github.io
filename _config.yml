@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Jekyll Project
 
 # Your name to show in the footer
-author: Some Person
+author: Bryan Waite
 
 # --- List of links in the navigation bar --- #
 
@@ -40,21 +40,21 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: ""
+  github: ""
+  twitter: ""
+  patreon: ""
+  youtube: ""
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+#  linkedin: ""
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+#  stackoverflow: ""
+#  snapchat: ""
+#  instagram: ""
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
+#  steam: ""
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
@@ -99,16 +99,16 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+navbar-col: "#735f63"
+navbar-text-col: "#bebdbf"
+navbar-border-col: "#A69296"
+page-col: "#D9D9D9"
+text-col: "#353440"
+link-col: "#735F63"
+hover-col: "#A69296"
+footer-col: "#A69296"
+footer-text-col: "#353440"
+footer-link-col: "#D9D9D9"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
