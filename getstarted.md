@@ -236,18 +236,21 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
   .gs-section-01 h3 {
     color: #ffffff;
     font: 24px;
-    font-weight: bold;  
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
   }
 
   .gs-section-02 h3 {
     color: #FFE3B9;
     font: 18px;
     font-weight: italic;
+    font-family: 'Montserrat', sans-serif;
   }
   .gs-section-03 h3 {
     color: #C7AC6D;
     font: 36px;
     font-weight: medium;
+    font-family: 'Montserrat', sans-serif;
   }
     
 </style>
