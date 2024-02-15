@@ -233,18 +233,18 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 <style>
 
-  gs-section-01 h1 {
+  .gs-section-01 h1 {
     color: #A69296
     font: 24px
     font-weight: bold;  
   }
 
-  gs-section-02 h2 {
+  .gs-section-02 h2 {
     color: #353440
     font: 18px
     font-weight: italic;
   }
-  gs-section-03 h3 {
+  .gs-section-03 h3 {
     color: #735f63
     font: 36px
     font-weight: medium;
